@@ -1,7 +1,7 @@
 {
  "name": "envirophat-webinfo",
  "version": "0.0.0",
- "description": "enviro pHATWeb display"
+ "description": "enviro pHATWeb display",
  "main": "main.py",
  "author": "isaaxug",
  "license" :"GPL",
